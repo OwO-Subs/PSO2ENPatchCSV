@@ -2,20 +2,20 @@
   <img src="http://i.imgur.com/OD8QlFQ.png" alt="PSO2 Logo"/>
 </p>
 
-# PSO2 English Patch 
-Welcome to the PSO2 English Patch CSV Repository.
+# PSO2 Engwish Patch 
+Wewcome to the PSO2 Engwish Patch CSV Wepositowy.
 
-Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN)
+Cuwwent status of tests and checks: [ ^w^ [CiwcweCI](https://ciwcweci.com/gh/Awks-Wayew/PSO2ENPatchCSV/twee/EN.svg?stywe=svg)](https://ciwcweci.com/gh/Awks-Wayew/PSO2ENPatchCSV/twee/EN)
 
-This repository is dedicated to translating PSO2 game texts from Japanese to English. Our goal is to complete the English translations first, so that it can be used to translate the game to other non-English languages.
+This wepositowy is dedicated to twanswating PSO2 game texts fwom Japanyese to Engwish. Ouw goaw is to compwete the Engwish twanswations fiwst, so that it can be used to twanswate the game to othew nyon-Engwish wanguages.
 
-We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
+We hope ouw discwosing of game texts and openying this wepositowy wiww pave a quickew way fow nyon-Japanyese speaking AWKS to enjoy the game in theiw nyative wanguages in the futuwe.
 
-<i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit translations to RAW JP files. ありがとう～ (*＾▽＾)／</i>
+<i>Whiwe we appweciate the effowts of those who don't speak Japanyese (thwough Googwe twanswate and the wike), we wouwd wike fow onwy those who have a gwasp of the Japanyese wanguage to submit twanswations to WAW JP fiwes. ありがとう～ (*＾▽＾)／</i>
 
-## Contributions
-### Getting Started/Helping Out
-A full guide on how to get started is [available here].
+## Contwibutions
+### Getting Stawted/Hewping Out
+A fuww guide on how to get stawted is [avaiwabwe hewe].
 
 ### To-Do
 Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
